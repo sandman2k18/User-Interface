@@ -92,6 +92,9 @@ nav a {
 	margin: 10px 5% 10px 3.5%;
 }
 
+nav a:hover{
+	color:black;
+}
 
 nav img {
 	width: 11%;
@@ -170,7 +173,10 @@ hr{
 }
 
 #content p{
-	width: 60%;}
+	width: 60%;
+	line-height: 20px;
+
+}
 
 	#content img{
 		
@@ -200,7 +206,9 @@ hr{
 
 
 	.num{
-		line-height:3rem }
+		line-height:3rem ;
+		height:100px;
+	}
 
 
 		h6{
